@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<OpenXRayLuaJITLibsx64 Include="$(MSBuildThisFileDirectory)native\lib\x64\*.lib" />
+		<OpenXRayLuaJITLibsx86 Include="$(MSBuildThisFileDirectory)native\lib\x86\*.lib" />
+	</ItemGroup>
+	<PropertyGroup>
+		<OpenXRayLuaJITLibrariesx64>@(OpenXRayLuaJITLibsx64)</OpenXRayLuaJITLibrariesx64>
+		<OpenXRayLuaJITLibrariesx86>@(OpenXRayLuaJITLibsx86)</OpenXRayLuaJITLibrariesx86>
+	</PropertyGroup>
+	<ItemDefinitionGroup>
+		<ClCompile>
+			<AdditionalIncludeDirectories>$(MSBuildThisFileDirectory)native\include\;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+		</ClCompile>
+	</ItemDefinitionGroup>
+    <ItemDefinitionGroup Condition="'$(Platform)'=='x64'">
+        <Link>
+            <AdditionalLibraryDirectories>$(OpenXRayLuaJITLibrariesx64);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+			<AdditionalDependencies>$(OpenXRayLuaJITLibrariesx64);%(AdditionalDependencies)</AdditionalDependencies>
+        </Link>
+        <PostBuildEvent>
+            <Command>xcopy /y "$(MSBuildThisFileDirectory)native\lib\x64\*.dll" "$(OutDir)"</Command>
+        </PostBuildEvent>
+    </ItemDefinitionGroup>
+	<ItemDefinitionGroup Condition="'$(Platform)'=='Win32'">
+        <Link>
+            <AdditionalLibraryDirectories>$(OpenXRayLuaJITLibrariesx86);%(AdditionalLibraryDirectories)</AdditionalLibraryDirectories>
+			<AdditionalDependencies>$(OpenXRayLuaJITLibrariesx86);%(AdditionalDependencies)</AdditionalDependencies>
+        </Link>
+        <PostBuildEvent>
+            <Command>xcopy /y "$(MSBuildThisFileDirectory)native\lib\x86\*.dll" "$(OutDir)"</Command>
+        </PostBuildEvent>
+    </ItemDefinitionGroup>
+</Project>

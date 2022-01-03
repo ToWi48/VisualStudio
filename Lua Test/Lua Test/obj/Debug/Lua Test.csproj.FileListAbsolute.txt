@@ -1,0 +1,14 @@
+C:\Users\Tom\source\repos\Lua Test\Lua Test\bin\Debug\Lua Test.exe.config
+C:\Users\Tom\source\repos\Lua Test\Lua Test\bin\Debug\Lua Test.exe
+C:\Users\Tom\source\repos\Lua Test\Lua Test\bin\Debug\Lua Test.pdb
+C:\Users\Tom\source\repos\Lua Test\Lua Test\bin\Debug\MoonSharp.Interpreter.dll
+C:\Users\Tom\source\repos\Lua Test\Lua Test\bin\Debug\MoonSharp.Interpreter.pdb
+C:\Users\Tom\source\repos\Lua Test\Lua Test\bin\Debug\MoonSharp.Interpreter.xml
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua Test.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua_Test.Form1.resources
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua_Test.Properties.Resources.resources
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua Test.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua Test.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua Test.csproj.CopyComplete
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua Test.exe
+C:\Users\Tom\source\repos\Lua Test\Lua Test\obj\Debug\Lua Test.pdb

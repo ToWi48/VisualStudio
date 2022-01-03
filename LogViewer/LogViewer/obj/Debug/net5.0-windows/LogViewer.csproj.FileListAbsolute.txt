@@ -1,0 +1,8 @@
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.Form.resources
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.AssemblyInfoInputs.cache
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.AssemblyInfo.cs
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\LogViewer\LogViewer\obj\Debug\net5.0-windows\LogViewer.Form1.resources
