@@ -1,0 +1,14 @@
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\lua54.dll
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\liblua54.dylib
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\liblua54.so
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\x86\lua54.dll
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\x64\lua54.dll
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\x64\liblua54.so
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\NLua.dll
+C:\Users\Tom\source\repos\NLua-main\lib\Debug\net46\NLua.pdb
+C:\Users\Tom\source\repos\NLua-main\build\net46\obj\Debug\NLua.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\NLua-main\build\net46\obj\Debug\NLua.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\NLua-main\build\net46\obj\Debug\NLua.sourcelink.json
+C:\Users\Tom\source\repos\NLua-main\build\net46\obj\Debug\NLua.csproj.CopyComplete
+C:\Users\Tom\source\repos\NLua-main\build\net46\obj\Debug\NLua.dll
+C:\Users\Tom\source\repos\NLua-main\build\net46\obj\Debug\NLua.pdb

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jj4NRwMerKjG9YAgyYAvW2Qz0K9cXryMWQYnoidmQ7Xmyuxc+nqVWrsTdDohuetqv5bnRoq3p0UsuIJupKuBTw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Tom\\source\\repos\\NLua-main\\build\\net46\\NLua.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tom\\.nuget\\packages\\keralua\\1.2.13\\keralua.1.2.13.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.build.tasks.git\\1.0.0\\microsoft.build.tasks.git.1.0.0.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.sourcelink.common\\1.0.0\\microsoft.sourcelink.common.1.0.0.nupkg.sha512",
+    "C:\\Users\\Tom\\.nuget\\packages\\microsoft.sourcelink.github\\1.0.0\\microsoft.sourcelink.github.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

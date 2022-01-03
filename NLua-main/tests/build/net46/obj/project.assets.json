@@ -1,0 +1,381 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6": {
+      "KeraLua/1.2.13": {
+        "type": "package",
+        "compile": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "runtime": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "build": {
+          "build/net46/KeraLua.targets": {}
+        },
+        "runtimeTargets": {
+          "runtimes/linux-x64/native/liblua54.so": {
+            "assetType": "native",
+            "rid": "linux-x64"
+          },
+          "runtimes/osx/native/liblua54.dylib": {
+            "assetType": "native",
+            "rid": "osx"
+          },
+          "runtimes/win-x64/native/lua54.dll": {
+            "assetType": "native",
+            "rid": "win-x64"
+          },
+          "runtimes/win-x86/native/lua54.dll": {
+            "assetType": "native",
+            "rid": "win-x86"
+          }
+        }
+      },
+      "NUnit/3.13.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/3.17.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NLua/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "KeraLua": "1.2.13"
+        },
+        "compile": {
+          "bin/placeholder/NLua.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLua.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win": {
+      "KeraLua/1.2.13": {
+        "type": "package",
+        "compile": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "runtime": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "build": {
+          "build/net46/KeraLua.targets": {}
+        }
+      },
+      "NUnit/3.13.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/3.17.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NLua/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "KeraLua": "1.2.13"
+        },
+        "compile": {
+          "bin/placeholder/NLua.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLua.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win-x64": {
+      "KeraLua/1.2.13": {
+        "type": "package",
+        "compile": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "runtime": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "native": {
+          "runtimes/win-x64/native/lua54.dll": {}
+        },
+        "build": {
+          "build/net46/KeraLua.targets": {}
+        }
+      },
+      "NUnit/3.13.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/3.17.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NLua/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "KeraLua": "1.2.13"
+        },
+        "compile": {
+          "bin/placeholder/NLua.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLua.dll": {}
+        }
+      }
+    },
+    ".NETFramework,Version=v4.6/win-x86": {
+      "KeraLua/1.2.13": {
+        "type": "package",
+        "compile": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "runtime": {
+          "lib/net46/KeraLua.dll": {}
+        },
+        "native": {
+          "runtimes/win-x86/native/lua54.dll": {}
+        },
+        "build": {
+          "build/net46/KeraLua.targets": {}
+        }
+      },
+      "NUnit/3.13.1": {
+        "type": "package",
+        "compile": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "runtime": {
+          "lib/net45/nunit.framework.dll": {}
+        },
+        "build": {
+          "build/NUnit.props": {}
+        }
+      },
+      "NUnit3TestAdapter/3.17.0": {
+        "type": "package",
+        "build": {
+          "build/net35/NUnit3TestAdapter.props": {}
+        }
+      },
+      "NLua/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6",
+        "dependencies": {
+          "KeraLua": "1.2.13"
+        },
+        "compile": {
+          "bin/placeholder/NLua.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/NLua.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KeraLua/1.2.13": {
+      "sha512": "BEmvVGwIe3n/W+F84lCvvOnu0HPJzOLUikfTGtIvVQqDV182mqeiYQruQlE1XMt/1i66B39jn52KuyS9Ojyfeg==",
+      "type": "package",
+      "path": "keralua/1.2.13",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "build/net46/KeraLua.targets",
+        "keralua.1.2.13.nupkg.sha512",
+        "keralua.nuspec",
+        "lib/MonoAndroid/KeraLua.dll",
+        "lib/MonoAndroid/KeraLua.xml",
+        "lib/net46/KeraLua.dll",
+        "lib/net46/KeraLua.xml",
+        "lib/net5.0/KeraLua.dll",
+        "lib/net5.0/KeraLua.xml",
+        "lib/netcoreapp3.1/KeraLua.dll",
+        "lib/netcoreapp3.1/KeraLua.xml",
+        "lib/uap10.0/KeraLua.dll",
+        "lib/uap10.0/KeraLua.pri",
+        "lib/uap10.0/KeraLua.xml",
+        "lib/xamarinios/KeraLua.dll",
+        "lib/xamarinios/KeraLua.xml",
+        "lib/xamarinmac/KeraLua.dll",
+        "lib/xamarinmac/KeraLua.xml",
+        "lib/xamarintvos/KeraLua.dll",
+        "lib/xamarintvos/KeraLua.xml",
+        "lib/xamarinwatchos/KeraLua.dll",
+        "lib/xamarinwatchos/KeraLua.xml",
+        "runtimes/linux-x64/native/liblua54.so",
+        "runtimes/osx/native/liblua54.dylib",
+        "runtimes/win-x64/native/lua54.dll",
+        "runtimes/win-x86/native/lua54.dll",
+        "runtimes/win10-arm/nativeassets/uap10.0/lua54.dll",
+        "runtimes/win10-arm64/nativeassets/uap10.0/lua54.dll",
+        "runtimes/win10-x64/nativeassets/uap10.0/lua54.dll",
+        "runtimes/win10-x86/nativeassets/uap10.0/lua54.dll"
+      ]
+    },
+    "NUnit/3.13.1": {
+      "sha512": "vWBvrSelmTYwqHWvO3dA63z7cOpaFR/3nJ9MMVLBkWeaWa7oiglPPm5g1h96B4i2XXqjFexxhR5MyMjmIJYPfg==",
+      "type": "package",
+      "path": "nunit/3.13.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGES.md",
+        "LICENSE.txt",
+        "NOTICES.txt",
+        "build/NUnit.props",
+        "icon.png",
+        "lib/net35/nunit.framework.dll",
+        "lib/net35/nunit.framework.xml",
+        "lib/net40/nunit.framework.dll",
+        "lib/net40/nunit.framework.xml",
+        "lib/net45/nunit.framework.dll",
+        "lib/net45/nunit.framework.xml",
+        "lib/netstandard2.0/nunit.framework.dll",
+        "lib/netstandard2.0/nunit.framework.xml",
+        "nunit.3.13.1.nupkg.sha512",
+        "nunit.nuspec"
+      ]
+    },
+    "NUnit3TestAdapter/3.17.0": {
+      "sha512": "I9MNvK+GM2yXrHPitwZkAZKU9sYI2OO/8wKC+VuBD7V3z+ySQ1pSopX/urr0ooedI8/TIcajYPRO4vGRr7AM8A==",
+      "type": "package",
+      "path": "nunit3testadapter/3.17.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE.txt",
+        "build/net35/NUnit3.TestAdapter.dll",
+        "build/net35/NUnit3.TestAdapter.pdb",
+        "build/net35/NUnit3TestAdapter.props",
+        "build/net35/nunit.engine.api.dll",
+        "build/net35/nunit.engine.core.dll",
+        "build/net35/nunit.engine.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.dll",
+        "build/netcoreapp2.1/NUnit3.TestAdapter.pdb",
+        "build/netcoreapp2.1/NUnit3TestAdapter.props",
+        "build/netcoreapp2.1/nunit.engine.api.dll",
+        "build/netcoreapp2.1/nunit.engine.core.dll",
+        "build/netcoreapp2.1/nunit.engine.dll",
+        "nunit3testadapter.3.17.0.nupkg.sha512",
+        "nunit3testadapter.nuspec"
+      ]
+    },
+    "NLua/1.0.0": {
+      "type": "project",
+      "path": "../../../build/net46/NLua.csproj",
+      "msbuildProject": "../../../build/net46/NLua.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6": [
+      "KeraLua >= 1.2.13",
+      "NLua >= 1.0.0",
+      "NUnit >= 3.13.1",
+      "NUnit3TestAdapter >= 3.17.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Tom\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Tom\\source\\repos\\NLua-main\\tests\\build\\net46\\NLuaTest.csproj",
+      "projectName": "NLuaTest",
+      "projectPath": "C:\\Users\\Tom\\source\\repos\\NLua-main\\tests\\build\\net46\\NLuaTest.csproj",
+      "packagesPath": "C:\\Users\\Tom\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Tom\\source\\repos\\NLua-main\\tests\\build\\net46\\obj\\",
+      "projectStyle": "PackageReference",
+      "skipContentFileWrite": true,
+      "configFilePaths": [
+        "C:\\Users\\Tom\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net46"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net46": {
+          "projectReferences": {
+            "C:\\Users\\Tom\\source\\repos\\NLua-main\\build\\net46\\NLua.csproj": {
+              "projectPath": "C:\\Users\\Tom\\source\\repos\\NLua-main\\build\\net46\\NLua.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "allWarningsAsErrors": true
+      }
+    },
+    "frameworks": {
+      "net46": {
+        "dependencies": {
+          "KeraLua": {
+            "target": "Package",
+            "version": "[1.2.13, )"
+          },
+          "NUnit": {
+            "target": "Package",
+            "version": "[3.13.1, )"
+          },
+          "NUnit3TestAdapter": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[3.17.0, )"
+          }
+        }
+      }
+    },
+    "runtimes": {
+      "win": {
+        "#import": []
+      },
+      "win-x64": {
+        "#import": []
+      },
+      "win-x86": {
+        "#import": []
+      }
+    }
+  }
+}
