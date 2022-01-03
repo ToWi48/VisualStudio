@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b3222351-cdd3-42a7-9ad3-36e8d6322aec": {
+      "ProjectGuid": "b3222351-cdd3-42a7-9ad3-36e8d6322aec",
+      "DisplayName": "MyScript.InteractiveInk.Demo.Wpf-VS2017",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

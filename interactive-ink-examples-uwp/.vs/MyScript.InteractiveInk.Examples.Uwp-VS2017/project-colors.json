@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "01436395-fd36-494a-87f9-fd0ef5b033ff": {
+      "ProjectGuid": "01436395-fd36-494a-87f9-fd0ef5b033ff",
+      "DisplayName": "MyScript.InteractiveInk.GetStarted.Uwp-VS2017",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
