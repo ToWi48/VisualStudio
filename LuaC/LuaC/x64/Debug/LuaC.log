@@ -1,0 +1,5 @@
+﻿  Main.c
+Main.obj : error LNK2019: unresolved external symbol luaL_openlibs referenced in function main
+Main.obj : error LNK2019: unresolved external symbol luaL_newstate referenced in function main
+Lua\liblua54.a : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+C:\Users\Tom\source\repos\LuaC\x64\Debug\GreenLua.exe : fatal error LNK1120: 2 unresolved externals

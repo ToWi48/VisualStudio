@@ -1,0 +1,211 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F8E9907F-A4F8-41D8-9FDE-0CF1FF775B6D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>LuaJIT</RootNamespace>
+    <AssemblyName>LuaJIT</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>F:\Software\KeK Software\LuaJit\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="src\host\buildvm.c" />
+    <Content Include="src\host\buildvm.h" />
+    <Content Include="src\host\buildvm_asm.c" />
+    <Content Include="src\host\buildvm_fold.c" />
+    <Content Include="src\host\buildvm_lib.c" />
+    <Content Include="src\host\buildvm_peobj.c" />
+    <Content Include="src\host\minilua.c" />
+    <Content Include="src\lauxlib.h" />
+    <Content Include="src\lib_aux.c" />
+    <Content Include="src\lib_base.c" />
+    <Content Include="src\lib_bit.c" />
+    <Content Include="src\lib_debug.c" />
+    <Content Include="src\lib_ffi.c" />
+    <Content Include="src\lib_init.c" />
+    <Content Include="src\lib_io.c" />
+    <Content Include="src\lib_jit.c" />
+    <Content Include="src\lib_math.c" />
+    <Content Include="src\lib_os.c" />
+    <Content Include="src\lib_package.c" />
+    <Content Include="src\lib_string.c" />
+    <Content Include="src\lib_table.c" />
+    <Content Include="src\ljamalg.c" />
+    <Content Include="src\lj_alloc.c" />
+    <Content Include="src\lj_alloc.h" />
+    <Content Include="src\lj_api.c" />
+    <Content Include="src\lj_arch.h" />
+    <Content Include="src\lj_asm.c" />
+    <Content Include="src\lj_asm.h" />
+    <Content Include="src\lj_asm_arm.h" />
+    <Content Include="src\lj_asm_mips.h" />
+    <Content Include="src\lj_asm_ppc.h" />
+    <Content Include="src\lj_asm_x86.h" />
+    <Content Include="src\lj_bc.c" />
+    <Content Include="src\lj_bc.h" />
+    <Content Include="src\lj_bcdump.h" />
+    <Content Include="src\lj_bcread.c" />
+    <Content Include="src\lj_bcwrite.c" />
+    <Content Include="src\lj_carith.c" />
+    <Content Include="src\lj_carith.h" />
+    <Content Include="src\lj_ccall.c" />
+    <Content Include="src\lj_ccall.h" />
+    <Content Include="src\lj_ccallback.c" />
+    <Content Include="src\lj_ccallback.h" />
+    <Content Include="src\lj_cconv.c" />
+    <Content Include="src\lj_cconv.h" />
+    <Content Include="src\lj_cdata.c" />
+    <Content Include="src\lj_cdata.h" />
+    <Content Include="src\lj_char.c" />
+    <Content Include="src\lj_char.h" />
+    <Content Include="src\lj_clib.c" />
+    <Content Include="src\lj_clib.h" />
+    <Content Include="src\lj_cparse.c" />
+    <Content Include="src\lj_cparse.h" />
+    <Content Include="src\lj_crecord.c" />
+    <Content Include="src\lj_crecord.h" />
+    <Content Include="src\lj_ctype.c" />
+    <Content Include="src\lj_ctype.h" />
+    <Content Include="src\lj_debug.c" />
+    <Content Include="src\lj_debug.h" />
+    <Content Include="src\lj_def.h" />
+    <Content Include="src\lj_dispatch.c" />
+    <Content Include="src\lj_dispatch.h" />
+    <Content Include="src\lj_emit_arm.h" />
+    <Content Include="src\lj_emit_mips.h" />
+    <Content Include="src\lj_emit_ppc.h" />
+    <Content Include="src\lj_emit_x86.h" />
+    <Content Include="src\lj_err.c" />
+    <Content Include="src\lj_err.h" />
+    <Content Include="src\lj_errmsg.h" />
+    <Content Include="src\lj_ff.h" />
+    <Content Include="src\lj_ffrecord.c" />
+    <Content Include="src\lj_ffrecord.h" />
+    <Content Include="src\lj_frame.h" />
+    <Content Include="src\lj_func.c" />
+    <Content Include="src\lj_func.h" />
+    <Content Include="src\lj_gc.c" />
+    <Content Include="src\lj_gc.h" />
+    <Content Include="src\lj_gdbjit.c" />
+    <Content Include="src\lj_gdbjit.h" />
+    <Content Include="src\lj_ir.c" />
+    <Content Include="src\lj_ir.h" />
+    <Content Include="src\lj_ircall.h" />
+    <Content Include="src\lj_iropt.h" />
+    <Content Include="src\lj_jit.h" />
+    <Content Include="src\lj_lex.c" />
+    <Content Include="src\lj_lex.h" />
+    <Content Include="src\lj_lib.c" />
+    <Content Include="src\lj_lib.h" />
+    <Content Include="src\lj_load.c" />
+    <Content Include="src\lj_mcode.c" />
+    <Content Include="src\lj_mcode.h" />
+    <Content Include="src\lj_meta.c" />
+    <Content Include="src\lj_meta.h" />
+    <Content Include="src\lj_obj.c" />
+    <Content Include="src\lj_obj.h" />
+    <Content Include="src\lj_opt_dce.c" />
+    <Content Include="src\lj_opt_fold.c" />
+    <Content Include="src\lj_opt_loop.c" />
+    <Content Include="src\lj_opt_mem.c" />
+    <Content Include="src\lj_opt_narrow.c" />
+    <Content Include="src\lj_opt_sink.c" />
+    <Content Include="src\lj_opt_split.c" />
+    <Content Include="src\lj_parse.c" />
+    <Content Include="src\lj_parse.h" />
+    <Content Include="src\lj_record.c" />
+    <Content Include="src\lj_record.h" />
+    <Content Include="src\lj_snap.c" />
+    <Content Include="src\lj_snap.h" />
+    <Content Include="src\lj_state.c" />
+    <Content Include="src\lj_state.h" />
+    <Content Include="src\lj_str.c" />
+    <Content Include="src\lj_str.h" />
+    <Content Include="src\lj_strscan.c" />
+    <Content Include="src\lj_strscan.h" />
+    <Content Include="src\lj_tab.c" />
+    <Content Include="src\lj_tab.h" />
+    <Content Include="src\lj_target.h" />
+    <Content Include="src\lj_target_arm.h" />
+    <Content Include="src\lj_target_mips.h" />
+    <Content Include="src\lj_target_ppc.h" />
+    <Content Include="src\lj_target_x86.h" />
+    <Content Include="src\lj_trace.c" />
+    <Content Include="src\lj_trace.h" />
+    <Content Include="src\lj_traceerr.h" />
+    <Content Include="src\lj_udata.c" />
+    <Content Include="src\lj_udata.h" />
+    <Content Include="src\lj_vm.h" />
+    <Content Include="src\lj_vmevent.c" />
+    <Content Include="src\lj_vmevent.h" />
+    <Content Include="src\lj_vmmath.c" />
+    <Content Include="src\lua.h" />
+    <Content Include="src\lua.hpp" />
+    <Content Include="src\luaconf.h" />
+    <Content Include="src\luajit.c" />
+    <Content Include="src\luajit.h" />
+    <Content Include="src\lualib.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="src\host\genminilua.lua" />
+    <None Include="src\host\README" />
+    <None Include="src\jit\bc.lua" />
+    <None Include="src\jit\bcsave.lua" />
+    <None Include="src\jit\dis_arm.lua" />
+    <None Include="src\jit\dis_mips.lua" />
+    <None Include="src\jit\dis_mipsel.lua" />
+    <None Include="src\jit\dis_ppc.lua" />
+    <None Include="src\jit\dis_x64.lua" />
+    <None Include="src\jit\dis_x86.lua" />
+    <None Include="src\jit\dump.lua" />
+    <None Include="src\jit\v.lua" />
+    <None Include="src\lj.supp" />
+    <None Include="src\Makefile" />
+    <None Include="src\Makefile.dep" />
+    <None Include="src\msvcbuild.bat" />
+    <None Include="src\ps4build.bat" />
+    <None Include="src\psvitabuild.bat" />
+    <None Include="src\vm_arm.dasc" />
+    <None Include="src\vm_mips.dasc" />
+    <None Include="src\vm_ppc.dasc" />
+    <None Include="src\vm_ppcspe.dasc" />
+    <None Include="src\vm_x86.dasc" />
+    <None Include="src\xedkbuild.bat" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

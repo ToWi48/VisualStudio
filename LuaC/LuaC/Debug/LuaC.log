@@ -1,0 +1,6 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(519,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (LuaC.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Main.c
+C:\Users\Tom\source\repos\LuaC\LuaC\Main.c(232,1): warning C4090: 'initializing': different 'const' qualifiers
+C:\Users\Tom\source\repos\LuaC\LuaC\Main.c(241,1): warning C4244: 'initializing': conversion from 'lua_Integer' to 'int', possible loss of data
+C:\Users\Tom\source\repos\LuaC\LuaC\Main.c(257,2): warning C4133: 'function': incompatible types - from 'void (__cdecl *)(lua_State *)' to 'lua_CFunction'
+  LuaC.vcxproj -> C:\Users\Tom\source\repos\LuaC\Debug\GreenLua.exe

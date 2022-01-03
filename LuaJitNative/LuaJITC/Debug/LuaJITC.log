@@ -1,0 +1,150 @@
+﻿  buildvm.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\buildvm.h(15,10): fatal error C1083: Cannot open include file: 'lj_def.h': No such file or directory
+  buildvm_asm.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\buildvm.h(15,10): fatal error C1083: Cannot open include file: 'lj_def.h': No such file or directory
+  buildvm_fold.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\buildvm.h(15,10): fatal error C1083: Cannot open include file: 'lj_def.h': No such file or directory
+  buildvm_lib.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\buildvm.h(15,10): fatal error C1083: Cannot open include file: 'lj_def.h': No such file or directory
+  buildvm_peobj.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\buildvm.h(15,10): fatal error C1083: Cannot open include file: 'lj_def.h': No such file or directory
+  minilua.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(698,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(733,1): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(742,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(745,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(747,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(753,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(755,1): error C4996: 'strncat': This function or variable may be unsafe. Consider using strncat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(756,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(759,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(760,1): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(4704,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6136,17): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6154,6): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6164,6): error C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6623,37): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6625,24): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6631,37): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6699,5): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6715,5): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6753,5): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6762,4): error C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6871,26): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(6976,37): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7568,1): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7576,1): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7601,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7606,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7611,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7616,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\host\minilua.c(7632,1): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_aux.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_aux.c(40,43): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_aux.c(42,32): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_base.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lib_bit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_bit.c(67,10): fatal error C1083: Cannot open include file: 'lj_libdef.h': No such file or directory
+  lib_debug.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_debug.c(398,10): fatal error C1083: Cannot open include file: 'lj_libdef.h': No such file or directory
+  lib_ffi.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lib_init.c
+  lib_io.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lib_jit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_jit.c(144,10): fatal error C1083: Cannot open include file: 'lj_libdef.h': No such file or directory
+  lib_math.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_math.c(219,10): fatal error C1083: Cannot open include file: 'lj_libdef.h': No such file or directory
+  lib_os.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_os.c(91,7): error C4996: 'tmpnam': This function or variable may be unsafe. Consider using tmpnam_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_os.c(104,21): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_os.c(181,11): error C4996: 'gmtime': This function or variable may be unsafe. Consider using gmtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_os.c(187,11): error C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_os.c(280,10): fatal error C1083: Cannot open include file: 'lj_libdef.h': No such file or directory
+  lib_package.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_package.c(265,13): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_package.c(534,22): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lib_string.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lib_table.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lib_table.c(289,10): fatal error C1083: Cannot open include file: 'lj_libdef.h': No such file or directory
+  ljamalg.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  Generating Code...
+  Compiling...
+  lj_alloc.c
+  lj_api.c
+  lj_asm.c
+  lj_bc.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_bc.c(13,10): fatal error C1083: Cannot open include file: 'lj_bcdef.h': No such file or directory
+  lj_bcread.c
+  lj_bcwrite.c
+  lj_carith.c
+  lj_ccall.c
+  lj_ccallback.c
+  lj_cconv.c
+  lj_cdata.c
+  lj_char.c
+  lj_clib.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_clib.c(241,24): error C4996: '__p__fmode': This function or variable may be unsafe. Consider using _get_fmode instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_cparse.c
+  lj_crecord.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lj_ctype.c
+  lj_debug.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(337,5): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(346,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(351,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(354,7): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(355,7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(357,7): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_debug.c(359,5): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_dispatch.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lj_err.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lj_ffrecord.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  Generating Code...
+  Compiling...
+  lj_func.c
+  lj_gc.c
+  lj_gdbjit.c
+  lj_ir.c
+  lj_lex.c
+  lj_lib.c
+  lj_load.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_load.c(91,14): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_load.c(93,58): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_load.c(104,59): error C4996: 'strerror': This function or variable may be unsafe. Consider using strerror_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_mcode.c
+  lj_meta.c
+  lj_obj.c
+  lj_opt_dce.c
+  lj_opt_fold.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_opt_fold.c(2175,10): fatal error C1083: Cannot open include file: 'lj_folddef.h': No such file or directory
+  lj_opt_loop.c
+  lj_opt_mem.c
+  lj_opt_narrow.c
+  lj_opt_sink.c
+  lj_opt_split.c
+  lj_parse.c
+  lj_record.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_ff.h(14,10): fatal error C1083: Cannot open include file: 'lj_ffdef.h': No such file or directory
+  lj_snap.c
+  Generating Code...
+  Compiling...
+  lj_state.c
+  lj_str.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\lj_str.c(180,20): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  lj_strscan.c
+  lj_tab.c
+  lj_trace.c
+  lj_udata.c
+  lj_vmevent.c
+  lj_vmmath.c
+  luajit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\LuaJIT-2.0.5\src\luajit.c(492,22): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...

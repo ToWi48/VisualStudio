@@ -1,0 +1,70 @@
+﻿  lapi.c
+  lauxlib.c
+  lbaselib.c
+  lbitlib.c
+  lcorolib.c
+  lctype.c
+  ldblib.c
+  ldebug.c
+  ldo.c
+  ldump.c
+  lfunc.c
+  lgc.c
+  linit.c
+  liolib.c
+  llex.c
+  lmathlib.c
+  lmem.c
+  loadlib.c
+  lobject.c
+  lopcodes.c
+  Compiling...
+  loslib.c
+  lparser.c
+  lstate.c
+  lstring.c
+  lstrlib.c
+  ltable.c
+  ltablib.c
+  ltm.c
+  lua.c
+  luac.c
+  lundump.c
+  lutf8lib.c
+  lvm.c
+  lzio.c
+luac.obj : error LNK2005: main already defined in lua.obj
+lparser.obj : error LNK2001: unresolved external symbol luaK_exp2RK
+lparser.obj : error LNK2001: unresolved external symbol luaK_setreturns
+lparser.obj : error LNK2001: unresolved external symbol luaK_codek
+lparser.obj : error LNK2001: unresolved external symbol luaK_goiffalse
+lparser.obj : error LNK2001: unresolved external symbol luaK_exp2anyreg
+lparser.obj : error LNK2001: unresolved external symbol luaK_concat
+lparser.obj : error LNK2001: unresolved external symbol luaK_getlabel
+lparser.obj : error LNK2001: unresolved external symbol luaK_codeABC
+lparser.obj : error LNK2001: unresolved external symbol luaK_indexed
+lparser.obj : error LNK2001: unresolved external symbol luaK_posfix
+lparser.obj : error LNK2001: unresolved external symbol luaK_exp2val
+lparser.obj : error LNK2001: unresolved external symbol luaK_nil
+lparser.obj : error LNK2001: unresolved external symbol luaK_infix
+lparser.obj : error LNK2001: unresolved external symbol luaK_self
+lparser.obj : error LNK2001: unresolved external symbol luaK_goiftrue
+lparser.obj : error LNK2001: unresolved external symbol luaK_storevar
+lparser.obj : error LNK2001: unresolved external symbol luaK_reserveregs
+lparser.obj : error LNK2001: unresolved external symbol luaK_patchlist
+lparser.obj : error LNK2001: unresolved external symbol luaK_setlist
+lparser.obj : error LNK2001: unresolved external symbol luaK_jump
+lparser.obj : error LNK2001: unresolved external symbol luaK_fixline
+lparser.obj : error LNK2001: unresolved external symbol luaK_exp2nextreg
+lparser.obj : error LNK2001: unresolved external symbol luaK_ret
+lparser.obj : error LNK2001: unresolved external symbol luaK_checkstack
+lparser.obj : error LNK2001: unresolved external symbol luaK_patchtohere
+lparser.obj : error LNK2001: unresolved external symbol luaK_dischargevars
+lparser.obj : error LNK2001: unresolved external symbol luaK_patchclose
+lparser.obj : error LNK2001: unresolved external symbol luaK_prefix
+lparser.obj : error LNK2001: unresolved external symbol luaK_stringK
+lparser.obj : error LNK2001: unresolved external symbol luaK_codeABx
+lparser.obj : error LNK2001: unresolved external symbol luaK_intK
+lparser.obj : error LNK2001: unresolved external symbol luaK_exp2anyregup
+lparser.obj : error LNK2001: unresolved external symbol luaK_setoneret
+C:\Users\Tom\source\repos\Lua53\x64\Release\Lua53.exe : fatal error LNK1120: 33 unresolved externals

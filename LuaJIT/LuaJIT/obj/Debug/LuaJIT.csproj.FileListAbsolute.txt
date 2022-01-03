@@ -1,0 +1,6 @@
+F:\Software\KeK Software\LuaJit\LuaJIT.dll
+F:\Software\KeK Software\LuaJit\LuaJIT.pdb
+C:\Users\Tom\source\repos\LuaJIT\LuaJIT\obj\Debug\LuaJIT.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\LuaJIT\LuaJIT\obj\Debug\LuaJIT.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\LuaJIT\LuaJIT\obj\Debug\LuaJIT.dll
+C:\Users\Tom\source\repos\LuaJIT\LuaJIT\obj\Debug\LuaJIT.pdb

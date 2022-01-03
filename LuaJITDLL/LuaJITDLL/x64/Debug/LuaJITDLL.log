@@ -1,0 +1,334 @@
+﻿  pch.cpp
+  lib_aux.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_aux.c(357,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_base.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_base.c(684,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_bit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_bit.c(75,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_debug.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_debug.c(406,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_ffi.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_ffi.c(852,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_init.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_init.c(56,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_io.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_io.c(547,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_jit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_jit.c(665,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_math.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_math.c(234,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_os.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_os.c(288,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_package.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_package.c(144,1): warning C4005: 'PACKAGE_LIB_FAIL': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_package.c(28): message : see previous definition of 'PACKAGE_LIB_FAIL'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_package.c(603,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_string.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_string.c(941,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lib_table.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lib_table.c(301,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  ljamalg.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\ljamalg.c(94,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_alloc.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(186,1): warning C4005: 'MMAP_REGION_START': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(183): message : see previous definition of 'MMAP_REGION_START'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(205,1): warning C4005: 'MMAP_REGION_START': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(186): message : see previous definition of 'MMAP_REGION_START'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(207,1): warning C4005: 'MMAP_REGION_START': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(205): message : see previous definition of 'MMAP_REGION_START'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(209,1): warning C4005: 'MMAP_REGION_START': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(207): message : see previous definition of 'MMAP_REGION_START'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(300,1): warning C4005: 'CALL_MREMAP_MV': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(298): message : see previous definition of 'CALL_MREMAP_MV'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(307,1): warning C4005: 'CALL_MREMAP': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(294): message : see previous definition of 'CALL_MREMAP'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(482,1): warning C4005: 'mmap_align': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(480): message : see previous definition of 'mmap_align'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_alloc.c(1397,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_api.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_api.c(1201,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_asm.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(155,1): warning C4005: 'ra_iskref': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(143): message : see previous definition of 'ra_iskref'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(156,1): warning C4005: 'ra_krefreg': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(144): message : see previous definition of 'ra_krefreg'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(157,1): warning C4005: 'ra_krefk': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(145): message : see previous definition of 'ra_krefk'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(280,1): warning C4005: 'RA_DBG_START': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(272): message : see previous definition of 'RA_DBG_START'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(281,1): warning C4005: 'RA_DBG_FLUSH': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(273): message : see previous definition of 'RA_DBG_FLUSH'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(282,1): warning C4005: 'RA_DBG_REF': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(276): message : see previous definition of 'RA_DBG_REF'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(283,1): warning C4005: 'RA_DBGX': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(277): message : see previous definition of 'RA_DBGX'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_asm.c(1921,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_bc.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_bc.c(15,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_bcread.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_bcread.c(477,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_bcwrite.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_bcwrite.c(397,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  lj_carith.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_carith.c(354,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_ccall.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(47,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(29): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(60,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(47): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(72,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(31): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(103,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(60): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(105,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(72): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(116,1): warning C4005: 'CCALL_HANDLE_STRUCTARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(81): message : see previous definition of 'CCALL_HANDLE_STRUCTARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(123,1): warning C4005: 'CCALL_HANDLE_COMPLEXARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(84): message : see previous definition of 'CCALL_HANDLE_COMPLEXARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(131,1): warning C4005: 'CCALL_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(95): message : see previous definition of 'CCALL_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(143,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(103): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(148,1): warning C4005: 'CCALL_HANDLE_STRUCTRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(51): message : see previous definition of 'CCALL_HANDLE_STRUCTRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(152,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(105): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(160,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(78): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(169,1): warning C4005: 'CCALL_HANDLE_STRUCTARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(116): message : see previous definition of 'CCALL_HANDLE_STRUCTARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(172,1): warning C4005: 'CCALL_HANDLE_COMPLEXARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(123): message : see previous definition of 'CCALL_HANDLE_COMPLEXARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(189,1): warning C4005: 'CCALL_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(131): message : see previous definition of 'CCALL_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(199,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(143): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(203,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(152): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(206,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(160): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(209,1): warning C4005: 'CCALL_HANDLE_STRUCTARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(169): message : see previous definition of 'CCALL_HANDLE_STRUCTARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(212,1): warning C4005: 'CCALL_HANDLE_COMPLEXARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(172): message : see previous definition of 'CCALL_HANDLE_COMPLEXARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(221,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(199): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(225,1): warning C4005: 'CCALL_HANDLE_STRUCTRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(148): message : see previous definition of 'CCALL_HANDLE_STRUCTRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(228,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(203): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(231,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(206): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(234,1): warning C4005: 'CCALL_HANDLE_STRUCTARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(209): message : see previous definition of 'CCALL_HANDLE_STRUCTARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(238,1): warning C4005: 'CCALL_HANDLE_COMPLEXARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(212): message : see previous definition of 'CCALL_HANDLE_COMPLEXARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(267,1): warning C4005: 'CCALL_HANDLE_REGARG_FP1': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(214): message : see previous definition of 'CCALL_HANDLE_REGARG_FP1'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(269,1): warning C4005: 'CCALL_HANDLE_REGARG_FP2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(215): message : see previous definition of 'CCALL_HANDLE_REGARG_FP2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(289,1): warning C4005: 'CCALL_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(189): message : see previous definition of 'CCALL_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(299,1): warning C4005: 'CCALL_HANDLE_STRUCTRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(221): message : see previous definition of 'CCALL_HANDLE_STRUCTRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(303,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(228): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(306,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(231): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(310,1): warning C4005: 'CCALL_HANDLE_STRUCTARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(234): message : see previous definition of 'CCALL_HANDLE_STRUCTARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(313,1): warning C4005: 'CCALL_HANDLE_COMPLEXARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(238): message : see previous definition of 'CCALL_HANDLE_COMPLEXARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(336,1): warning C4005: 'CCALL_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(289): message : see previous definition of 'CCALL_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(340,1): warning C4005: 'CCALL_HANDLE_RET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(292): message : see previous definition of 'CCALL_HANDLE_RET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(376,1): warning C4005: 'CCALL_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(336): message : see previous definition of 'CCALL_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(396,1): warning C4005: 'CCALL_HANDLE_COMPLEXRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(306): message : see previous definition of 'CCALL_HANDLE_COMPLEXRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(399,1): warning C4005: 'CCALL_HANDLE_STRUCTARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(310): message : see previous definition of 'CCALL_HANDLE_STRUCTARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(425,1): warning C4005: 'CCALL_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(376): message : see previous definition of 'CCALL_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(429,1): warning C4005: 'CCALL_HANDLE_RET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(340): message : see previous definition of 'CCALL_HANDLE_RET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(437,1): warning C4005: 'CCALL_HANDLE_STRUCTRET2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(225): message : see previous definition of 'CCALL_HANDLE_STRUCTRET2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccall.c(901,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_ccallback.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(41,1): warning C4005: 'CALLBACK_SLOT2OFS': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(31): message : see previous definition of 'CALLBACK_SLOT2OFS'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(52,1): warning C4005: 'CALLBACK_MAX_SLOT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(33): message : see previous definition of 'CALLBACK_MAX_SLOT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(56,1): warning C4005: 'CALLBACK_MCODE_HEAD': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(37): message : see previous definition of 'CALLBACK_MCODE_HEAD'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(57,1): warning C4005: 'CALLBACK_SLOT2OFS': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(41): message : see previous definition of 'CALLBACK_SLOT2OFS'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(58,1): warning C4005: 'CALLBACK_OFS2SLOT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(32): message : see previous definition of 'CALLBACK_OFS2SLOT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(59,1): warning C4005: 'CALLBACK_MAX_SLOT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(52): message : see previous definition of 'CALLBACK_MAX_SLOT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(63,1): warning C4005: 'CALLBACK_MCODE_HEAD': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(56): message : see previous definition of 'CALLBACK_MCODE_HEAD'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(78,1): warning C4005: 'CALLBACK_SLOT2OFS': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(57): message : see previous definition of 'CALLBACK_SLOT2OFS'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(79,1): warning C4005: 'CALLBACK_OFS2SLOT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(58): message : see previous definition of 'CALLBACK_OFS2SLOT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(80,1): warning C4005: 'CALLBACK_MAX_SLOT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(59): message : see previous definition of 'CALLBACK_MAX_SLOT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(292,1): warning C4005: 'CALLBACK_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(282): message : see previous definition of 'CALLBACK_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(309,1): warning C4005: 'CALLBACK_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(292): message : see previous definition of 'CALLBACK_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(339,1): warning C4005: 'CALLBACK_HANDLE_REGARG_FP1': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(315): message : see previous definition of 'CALLBACK_HANDLE_REGARG_FP1'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(341,1): warning C4005: 'CALLBACK_HANDLE_REGARG_FP2': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(316): message : see previous definition of 'CALLBACK_HANDLE_REGARG_FP2'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(352,1): warning C4005: 'CALLBACK_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(309): message : see previous definition of 'CALLBACK_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(373,1): warning C4005: 'CALLBACK_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(352): message : see previous definition of 'CALLBACK_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(394,1): warning C4005: 'CALLBACK_HANDLE_REGARG': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(373): message : see previous definition of 'CALLBACK_HANDLE_REGARG'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(398,1): warning C4005: 'CALLBACK_HANDLE_RET': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(377): message : see previous definition of 'CALLBACK_HANDLE_RET'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ccallback.c(645,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_cconv.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_cconv.c(753,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_cdata.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_cdata.c(286,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_char.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_char.c(44,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_clib.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(30,1): warning C4005: 'CLIB_DEFHANDLE': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(28): message : see previous definition of 'CLIB_DEFHANDLE'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(32,1): warning C4005: 'CLIB_DEFHANDLE': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(30): message : see previous definition of 'CLIB_DEFHANDLE'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(45,1): warning C4005: 'CLIB_SOPREFIX': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(43): message : see previous definition of 'CLIB_SOPREFIX'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(51,1): warning C4005: 'CLIB_SOEXT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(49): message : see previous definition of 'CLIB_SOEXT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(53,1): warning C4005: 'CLIB_SOEXT': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(51): message : see previous definition of 'CLIB_SOEXT'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(155,1): warning C4005: 'CLIB_DEFHANDLE': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(32): message : see previous definition of 'CLIB_DEFHANDLE'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(261,1): warning C4005: 'CLIB_DEFHANDLE': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(155): message : see previous definition of 'CLIB_DEFHANDLE'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_clib.c(410,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_cparse.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_cparse.c(1882,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_crecord.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_crecord.c(133,1): warning C4005: 'CREC_COPY_REGWIN': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_crecord.c(131): message : see previous definition of 'CREC_COPY_REGWIN'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_crecord.c(135,1): warning C4005: 'CREC_COPY_REGWIN': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_crecord.c(133): message : see previous definition of 'CREC_COPY_REGWIN'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_crecord.c(1673,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_ctype.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ctype.c(138,1): warning C4005: 'CTTYPETAB_MIN': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ctype.c(136): message : see previous definition of 'CTTYPETAB_MIN'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ctype.c(635,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_debug.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_debug.c(606,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_dispatch.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_dispatch.c(495,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_err.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_err.c(803,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_ffrecord.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ffrecord.c(888,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_func.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_func.c(188,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_gc.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_gc.c(257,1): warning C4005: 'gc_traverse_curtrace': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_gc.c(255): message : see previous definition of 'gc_traverse_curtrace'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_gc.c(857,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_gdbjit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_gdbjit.c(796,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_ir.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_ir.c(502,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_lex.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_lex.c(483,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_lib.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_lib.c(259,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  lj_load.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_load.c(169,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_mcode.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(96,1): warning C4005: 'MCPROT_RW': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(63): message : see previous definition of 'MCPROT_RW'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(97,1): warning C4005: 'MCPROT_RX': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(64): message : see previous definition of 'MCPROT_RX'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(98,1): warning C4005: 'MCPROT_RWX': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(65): message : see previous definition of 'MCPROT_RWX'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(129,1): warning C4005: 'MCPROT_RW': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(96): message : see previous definition of 'MCPROT_RW'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(130,1): warning C4005: 'MCPROT_RX': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(97): message : see previous definition of 'MCPROT_RX'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(131,1): warning C4005: 'MCPROT_RWX': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(98): message : see previous definition of 'MCPROT_RWX'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(179,1): warning C4005: 'MCPROT_GEN': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(161): message : see previous definition of 'MCPROT_GEN'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(180,1): warning C4005: 'MCPROT_RUN': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(162): message : see previous definition of 'MCPROT_RUN'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(210,1): warning C4005: 'mcode_validptr': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(208): message : see previous definition of 'mcode_validptr'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_mcode.c(388,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_meta.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_meta.c(467,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_obj.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_obj.c(36,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_dce.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_dce.c(79,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_fold.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_fold.c(1826,1): warning C4005: 'FOLD_SNEW_MAX_LEN': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_fold.c(1823): message : see previous definition of 'FOLD_SNEW_MAX_LEN'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_fold.c(1827,1): warning C4005: 'FOLD_SNEW_TYPE8': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_fold.c(1824): message : see previous definition of 'FOLD_SNEW_TYPE8'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_fold.c(2305,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_loop.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_loop.c(437,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_mem.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_mem.c(917,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_narrow.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_narrow.c(655,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_sink.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_sink.c(245,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_opt_split.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_opt_split.c(733,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_parse.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_parse.c(2757,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_record.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_record.c(2262,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_snap.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_snap.c(863,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_state.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_state.c(288,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_str.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_str.c(340,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_strscan.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_strscan.c(499,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_tab.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_tab.c(632,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_trace.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_trace.c(825,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_udata.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_udata.c(35,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...
+  Compiling...
+  lj_vmevent.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_vmevent.c(58,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  lj_vmmath.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\lj_vmmath.c(141,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  luajit.c
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(28,1): warning C4005: 'lua_stdin_is_tty': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(24): message : see previous definition of 'lua_stdin_is_tty'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(30,1): warning C4005: 'lua_stdin_is_tty': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(28): message : see previous definition of 'lua_stdin_is_tty'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(33,1): warning C4005: 'lua_stdin_is_tty': macro redefinition
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(30): message : see previous definition of 'lua_stdin_is_tty'
+C:\Users\Tom\Downloads\LuaJIT-2.0.5\src\luajit.c(572,1): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "pch.h"' to your source?
+  Generating Code...

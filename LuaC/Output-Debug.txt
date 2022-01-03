@@ -1,0 +1,14 @@
+﻿'GreenLua.exe' (Win32): Loaded 'C:\Users\Tom\source\repos\LuaC\Debug\GreenLua.exe'. Symbols loaded.
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Users\Tom\source\repos\LuaC\LuaC\lua54.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'GreenLua.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x6ac0 has exited with code 0 (0x0).
+The thread 0x523c has exited with code 0 (0x0).
+The thread 0x5224 has exited with code 0 (0x0).
+The program '[23472] GreenLua.exe' has exited with code 0 (0x0).
