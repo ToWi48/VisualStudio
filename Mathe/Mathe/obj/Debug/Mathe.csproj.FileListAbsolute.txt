@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\Mathe\Mathe\bin\Debug\Mathe.exe.config
+C:\Users\Tom\source\repos\Mathe\Mathe\bin\Debug\Mathe.exe
+C:\Users\Tom\source\repos\Mathe\Mathe\bin\Debug\Mathe.pdb
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.Form1.resources
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.Properties.Resources.resources
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.exe
+C:\Users\Tom\source\repos\Mathe\Mathe\obj\Debug\Mathe.pdb

@@ -1,0 +1,16 @@
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\NLuaTom.exe.config
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\NLuaTom.exe
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\NLuaTom.pdb
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\obj\Debug\NLuaTom.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\obj\Debug\NLuaTom.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\obj\Debug\NLuaTom.exe
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\obj\Debug\NLuaTom.pdb
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\lua54.dll
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\liblua54.dylib
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\x86\lua54.dll
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\x64\lua54.dll
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\x64\liblua54.so
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\KeraLua.dll
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\NLua.dll
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\bin\Debug\KeraLua.xml
+C:\Users\Tom\source\repos\NLuaTom\NLuaTom\obj\Debug\NLuaTom.csproj.CopyComplete

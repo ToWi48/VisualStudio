@@ -1,0 +1,3 @@
+﻿  Source3.cpp
+Source3.obj : error LNK2019: unresolved external symbol "public: bool __thiscall ganzzahl::gerade(void)const " (?gerade@ganzzahl@@QBE_NXZ) referenced in function "public: int __thiscall geradezahl::next(void)" (?next@geradezahl@@QAEHXZ)
+C:\Users\Tom\source\repos\Prüfungsvorbereitung\Debug\Prüfungsvorbereitung.exe : fatal error LNK1120: 1 unresolved externals

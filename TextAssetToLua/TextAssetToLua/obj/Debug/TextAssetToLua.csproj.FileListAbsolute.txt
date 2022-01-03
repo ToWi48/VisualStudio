@@ -1,0 +1,11 @@
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\bin\Debug\TextAssetToLua.exe.config
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\bin\Debug\TextAssetToLua.exe
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\bin\Debug\TextAssetToLua.pdb
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.csproj.AssemblyReference.cache
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.Form1.resources
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.Properties.Resources.resources
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.exe
+C:\Users\Tom\source\repos\TextAssetToLua\TextAssetToLua\obj\Debug\TextAssetToLua.pdb
