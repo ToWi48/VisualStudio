@@ -39,13 +39,7 @@ void swap(double* a, double* b)
 int main()
 {
 	//double ff[5] = { 2.2, 3.3, 4.4, 5.5, 6.6 }; // Stack
-
-	int n;
-
-	list<void> zahlen;
-	list<void>::iterator lIter; // Iterator definieren
-
-	zahlen.insert(1, 5);
+	int n = 0;
 
 	cin >> n;
 

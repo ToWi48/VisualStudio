@@ -1,2 +1,3 @@
-﻿  Source.cpp
-  InfoÜbung.vcxproj -> C:\Users\Tom\source\repos\InfoÜbung\x64\Debug\InfoÜbung.exe
+﻿  Quelle.cpp
+C:\Users\tomwi\Documents\Software\VisualStudio\InfoÜbung\InfoÜbung\Quelle.cpp(62,6): warning C4101: "i": Unreferenzierte lokale Variable
+  InfoÜbung.vcxproj -> C:\Users\tomwi\Documents\Software\VisualStudio\InfoÜbung\x64\Debug\InfoÜbung.exe
