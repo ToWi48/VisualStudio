@@ -1,0 +1,10 @@
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe.config
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\bin\Debug\DownloadManager.exe
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\bin\Debug\DownloadManager.pdb
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Form1.resources
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.Properties.Resources.resources
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.GenerateResource.cache
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.exe
+C:\Users\Tom\source\repos\DownloadManager\DownloadManager\obj\Debug\DownloadManager.pdb

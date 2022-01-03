@@ -1,0 +1,7 @@
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\bin\Debug\CppAnCs.exe.config
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\bin\Debug\CppAnCs.exe
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\bin\Debug\CppAnCs.pdb
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\obj\Debug\CppAnCs.csprojAssemblyReference.cache
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\obj\Debug\CppAnCs.csproj.CoreCompileInputs.cache
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\obj\Debug\CppAnCs.exe
+C:\Users\Tom\source\repos\CppAnCs\CppAnCs\obj\Debug\CppAnCs.pdb
